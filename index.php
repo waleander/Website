@@ -94,7 +94,7 @@
             <div class="slider-caption">
                 <div class="container">
                     <div class="row">
-                        <h1>Fastest growing web design &amp;<br /> digital marketing firm in Ibadan, Nigeria.</h1>
+                        <h1><span class="underline">Fastest growing</span> web design &amp;<br /> digital marketing firm in Ibadan, Nigeria.</h1>
                         <h5>We build result-driven web solutions that help our clients become more profitable.</h5>
                         
                         <div class="callaction">
@@ -182,7 +182,7 @@
 									<div class="content">
 										<h3>RAJ Consultancy Ltd.</h3>
 										<hr class="sep">
-										<p>Stationary design (Business card, Letterhead and Compliment card) for a UK-based Chartered Certified Accountant.
+										<p>Stationery design (Business card, Letterhead &amp; Compliment card) for a Chartered Certified Accountant firm.
 											<span class="date_completed">(July, 2016)</span></p>
 									</div>
 									
@@ -237,6 +237,9 @@
                     <div class="row"> 
                         <h2>We are constantly learning ...</h2>
                         <p>and turning digital trends into unique marketing opportunities <br /> and creative growth hacking plans for our clients to outperform their competitors.</p>
+                    	
+                    	<p>We provide a service that breaks away from the generic norm of the Nigeria IT industry. <br />We brainstorm with our clients to push the boundaries and unlock more success.</p>
+                    
                     </div>
                 </div>
             </div>
@@ -510,14 +513,14 @@
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/raj_business_card.jpg">
+                            <a href="img/portfolio/better-view/raj_august_2016.jpg">
                                 <img src="img/portfolio/raj_business_card.jpg" alt="Raj Consultancy Business Card">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Raj Consultancy Business Card
                                     	<ul class="work-list">
 											<li>Branding</li> 
-											<li>Stationary</li> 
+											<li>Stationery</li> 
 										</ul>	
                                     </span>
                                 </span>
@@ -529,7 +532,7 @@
                     	
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
+                            <a href="img/portfolio/better-view/rasmed_website1.jpg">
                                 <img src="img/portfolio/rasmed_website.jpg" alt="Rasmed Publications Website">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
@@ -801,134 +804,7 @@
     </section>
 
     <!-- End Of Our Partners Section -->
-
-
-    
-
-
-        
-
-    <!-- End Of Our Partners Section -->
-
-    <section class="blog-section section-padding" id="blog">
-        <div class="container">
-            <!-- Blog Section Title -->
-            <h2 class="section-title text-center">Latest Blog</h2>
-            <p class="sub-title text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, magna aliqua.Ut enim <br> consectetur adipisicing  ad minim veniam</p>
-
-            <div class="row mt-80 blog-section-padding">
-                <!-- Blog Post Carousel -->
-                <div id="blog-post-carousel" class="owl-carousel owl-theme">
-                    
-                    <!-- Single BLog Post 1 -->
-                    <div class="item">
-                        <article class="single-blog-post">
-                            <!-- BLog Post Image -->
-                            <div class="col-md-6 blog-post-image">
-                                <figure>
-                                    <a href="#"><img class="img-responsive img-thumbnail" src="img/blog/post-1.jpg" alt="Blog post image"></a>
-                                </figure>
-                            </div>
-
-                            <!-- Blog Post Details -->
-                            <div class="col-md-5 col-md-offset-1 blog-post-details mt-30">
-                                <!-- Blog Post Heading -->
-                                <div class="post-heading mb-30">
-                                    <a href="#"><h2>Free giveaway on Black Friday</h2></a>
-                                    <em>15 April 2015 / by <a href="#">Fin Baba</a> / <a href="#">1 comment</a></em>
-                                </div>
-
-                                <p>Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-
-                                <button class="btn-primary read-more-btn mt-30">Find Out More</button>
-                            </div>
-                        </article>
-                    </div>
-
-
-                    <!-- Single BLog Post 2 -->
-                    <div class="item">
-                        <article class="single-blog-post">
-                            <!-- BLog Post Image -->
-                            <div class="col-md-6 blog-post-image">
-                                <figure>
-                                    <a href="#"><img class="img-responsive img-thumbnail" src="img/blog/post-2.jpg" alt="Blog post image"></a>
-                                </figure>
-                            </div>
-
-                            <!-- Blog Post Details -->
-                            <div class="col-md-5 col-md-offset-1 blog-post-details mt-30">
-                                <!-- Blog Post Heading -->
-                                <div class="post-heading mb-30">
-                                    <a href="#"><h2>Photography Fundamentals 101</h2></a>
-                                    <em>20 March 2015 / by <a href="#">Doni Vai</a> / <a href="#">10 comments</a></em>
-                                </div>
-
-                                <p>Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-
-                                <button class="btn-primary read-more-btn mt-30">Find Out More</button>
-                            </div>
-                        </article>
-                    </div>
-
-                    <!-- Single BLog Post 3 -->
-                    <div class="item">
-                        <article class="single-blog-post">
-                            <!-- BLog Post Image -->
-                            <div class="col-md-6 blog-post-image">
-                                <figure>
-                                    <a href="#"><img class="img-responsive img-thumbnail" src="img/blog/post-3.jpg" alt="Blog post image"></a>
-                                </figure>
-                            </div>
-
-                            <!-- Blog Post Details -->
-                            <div class="col-md-5 col-md-offset-1 blog-post-details mt-30">
-                                <!-- Blog Post Heading -->
-                                <div class="post-heading mb-30">
-                                    <a href="#"><h2>A great evening on Sajek Valley</h2></a>
-                                    <em>30 August 2015 / by <a href="#">Tanvir Alam</a> / <a href="#">24 comments</a></em>
-                                </div>
-
-                                <p>Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-
-                                <button class="btn-primary read-more-btn mt-30">Find Out More</button>
-                            </div>
-                        </article>
-                    </div>
-
-                    <!-- Single BLog Post 4 -->
-                    <div class="item">
-                        <article class="single-blog-post">
-                            <!-- BLog Post Image -->
-                            <div class="col-md-6 blog-post-image">
-                                <figure>
-                                    <a href="#"><img class="img-responsive img-thumbnail" src="img/blog/post-4.jpg" alt="Blog post image"></a>
-                                </figure>
-                            </div>
-
-                            <!-- Blog Post Details -->
-                            <div class="col-md-5 col-md-offset-1 blog-post-details mt-30">
-                                <!-- Blog Post Heading -->
-                                <div class="post-heading mb-30">
-                                    <a href="#"><h2>Playing with raspberry pi zero</h2></a>
-                                    <em>21 September 2015 / by <a href="#">Nazim</a> / <a href="#">8 comments</a></em>
-                                </div>
-
-                                <p>Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-
-                                <button class="btn-primary read-more-btn mt-30">Find Out More</button>
-                            </div>
-                        </article>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- End Of Our Partners Section -->
-
-
+ 
 
     <!-- Contact Us Section -->
 
@@ -936,9 +812,9 @@
         <div class="container">
             <!-- Contact Us Section Title -->
             <h2 class="section-title contact-title text-center">Contact Us</h2>
-            <p class="sub-title contact-subtitle text-center">We’d love to hear from you, and answer any questions you may have.</p>
+            <p class="sub-title contact-subtitle text-center">We’d love to hear from you, let's discuss your project.</p>
             
-            <p class="sub-title contact-subtitle text-center">Tafotech building, Opp. Palms mall, Ring Road, Ibadan, Nigeria. Tel. +234 (0)817 070 1758</p>
+            <p class="sub-title contact-subtitle text-center">Tafotech building, Opp. Palms mall, Ring Road, Ibadan, Nigeria. <br />Tel. +234 (0)817 070 1758</p>
 
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1 col-sm-10 col-sm-offset-1 col-xs-12">

@@ -550,10 +550,19 @@ opacity:0.9;}
 
 
 .thumbnails span.portfolio-overlay { 
-    border: 5px solid #fff; 
+    border: 5px solid #fff;  
 }
 
 
+@media (min-width: 992px){
+	.container {
+		width:100% !important;
+	    max-width: 1070px !important;
+	}
+}
+
+ 
+ h1 span.underline{border-bottom:2px solid #fff; color:#fff !important; font-weight:100 !important;}
 
 
 /*---- Mobile version  ----*/

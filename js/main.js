@@ -1,5 +1,5 @@
 /*
-Author: Big Field Digital
+Author: Big Field Digital Ltd.
 Author URI: http://bigfielddigital.com/
 Version: 1.0
 Developed and Designed By: Big Field Digital
