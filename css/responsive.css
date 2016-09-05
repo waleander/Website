@@ -35,7 +35,8 @@
   padding: 30px 12px;
 }
 .is-sticky .navbar-custom .nav li > a {
-  padding: 20px 12px;
+  padding: 20px 5px;
+  font-size:0.9em;
 }
 
 /* About Us Area */
@@ -120,7 +121,7 @@
   line-height: 42px;
 }
 .slider-caption h5 {
-  font-size: 13px;
+  font-size: 16px; line-height:23px; padding-left:15px;
 }
 
 /* About Us */
@@ -321,11 +322,12 @@ span.count-description {
 }
 .slider-caption h1, #main-slide .item.active .slider-content h1 {
   font-size: 20px;
-  line-height: 22px;
+  line-height: 28px;
   margin-bottom: 18px;
+  padding-left:20px;
 }
 .slider-caption h1, #main-slide .item.active .slider-content h5 {
-  font-size: 12px;
+  font-size: 20px;
 }
 #main-slide .carousel-control i {
   background: #000 none repeat scroll 0 0;

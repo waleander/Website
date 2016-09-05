@@ -1,5 +1,9 @@
 p.big_p{font-size:1.2em;}
 
+.contact-subtitle{font-size:1.1em; padding:0; margin:0; font-weight:bold;}
+
+.slider-caption h2{text-transform:none;}
+
 .single-service, .our-services {cursor:text !important;}
 .logo {
     padding: 3px 0;
@@ -542,5 +546,44 @@ opacity:0.9;}
     display: none;
 }
 
+
+
+/*---- Mobile version  ----*/
+@media only screen
+and (max-width : 780px) {
+	
+	.logo { padding: 0 0 3px 15px;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+	}
+	
+	
+.logo img{max-width:100%; height:auto; width:37px !important; height:37px !important;  -webkit-transition: all 0.2s ease-in-out 0s;
+    transition: all 0.2s ease-in-out 0s;}
+	
+	 
+	h2 span.role_title{color:#eee !important; font-size:0.7em; display: block;}
+ 
+	.hero-particle-bg h2{color:#fff; font-size:2em;}
+	.hero-particle-bg p{color:#fff; font-size:1.1em; text-transform:none;}
+	
+	
+	.intro h2 {
+	    font-size: 1.6em !important;
+	    line-height: 1.5; 
+	    letter-spacing: 0.02em;
+	    padding-left:15px;
+	}
+	
+	
+	.recent_works ul.work-list { bottom: 2em;  z-index: 10; }
+	
+	
+	
+	.single-service { margin-left: 15px !important; }
+
+
+
+}
 
  

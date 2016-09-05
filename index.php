@@ -94,7 +94,7 @@
             <div class="slider-caption">
                 <div class="container">
                     <div class="row">
-                        <h1>Fastest growing web design <br />&amp; digital marketing firm in Ibadan.</h1>
+                        <h1>Fastest growing web design &amp;<br /> digital marketing firm in Ibadan, Nigeria.</h1>
                         <h5>We build result-driven web solutions that help our clients become more profitable.</h5>
                         
                         <div class="callaction">
@@ -157,7 +157,7 @@
 									<div class="content">
 										<h3>AA Rano Oil &amp; Gas</h3>
 										<hr class="sep">
-										<p>A 32-Page Corporate Brochure 2016. Showcasing the AA Rano's company profile and nationwide downstream operations and services.
+										<p>A 32-Page Corporate Brochure 2016. Showcasing AA Rano's company profile and nationwide downstream operations and services.
 											<span class="date_completed">(August, 2016)</span></p>
 									</div>
 									
@@ -214,9 +214,8 @@
 									
 									<ul class="work-list">
 										<li>Strategy</li> 
-										<li>Website</li>
-										<li>Social Media</li>
-										<li>Email Marketing</li>
+										<li>Branding</li>
+										<li>Logo Design</li> 
 									</ul>						
 							</a>
                     		 
@@ -352,9 +351,9 @@
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
                             <h2 class="section-title-left testimoinal-title">Akinwale Alexander<span class="role_title">Senior Software Developer</span></h2>
                             <div class="team-body">
-                               		<p>Likes to be addressed as a Software craftsman. Wale is an expert in diverse cutting-edge development technologies such as Scala, NodeJs, AngularJs, EmberJS and many others.</p>
-	        			   			<p>He has developed various software applications from games, file recovery programs, embedded application that records temperature data from the environment to building enterprise scale real-time applications.</p>
-    						 		<p>Akinwale holds a degree in computer science from the University of education in Ghana. He regularly blogs at www.oluyele.com</p>
+                               		<p>Likes to be addressed as a Software craftsman. Wale specializes in Software engineering, web application, Web UI frameworks such as AngularJS, ReactJS, EmberJS, NodeJS, Scala &amp; C#.</p>
+	        			   			<p>He has developed games, embedded application that records temperature data from the environment, as well as enterprise scale real-time applications.</p>
+    						 		<p>Akinwale holds a degree in Information Technology from the University of Ghana, Winneba. He is a member of IEEE, and a finalist in the Google Summer of Code (GSOC) 2014.</p>
 	        			   			 
                             </div>
                         </div>
@@ -370,11 +369,11 @@
                     <div class="item">
                         <!-- Team Body -->
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
-                            <h2 class="section-title-left testimoinal-title">Olumide Sonowo <span class="role_title">Social Media Manager</span></h2>
+                            <h2 class="section-title-left testimoinal-title">Olumide Sonowo <span class="role_title">Digital Marketer | Business Developer</span></h2>
                             <div class="team-body">
                                 	<p>Olumide brings a unique flair to our digital marketing team through strategic planning, design and execution.</p>
 	        					 	<p>He leads our creative digital marketing campaigns, through creating striking and engaging content to promote our customers' brands across various online marketing channels.</p>
-	        					 	<p>His has MSc in Information Communication &and; Technology from National Open University of Nigeria. </p>
+	        					 	<p>His has MSc in Information Communication &amp; Technology from National Open University of Nigeria. </p>
 	        					
                             </div>
                         </div>
@@ -392,8 +391,8 @@
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
                             <h2 class="section-title-left testimoinal-title">Olabimpe Oyekan <span class="role_title">Customer Service</span></h2>
                             <div class="team-body">
-                                <p>Bimpe has a passion for nurturing new and existing customer relationships through impeccable customer service. Always with a smiling face, and heart ready to help clients and prospects.</p>
-	        				    <p>A graduate of banking and finance from the polytechnic Ibadan.</p>
+                                <p>Bimpe has a passion for nurturing new and existing customer relationships through impeccable customer service. She gets deep satisfaction when solving problems or helping customers out in one way or another. Always with a smiling face <i class="fa fa-smile"></i>.</p>
+	        				    <p>She has an HND in Banking and Finance from the polytechnic Ibadan. A member of the Association of Chartered Institute of Bankers (ACIB).</p>
 	        						
                             </div>
                         </div>
@@ -412,8 +411,8 @@
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
                             <h2 class="section-title-left testimoinal-title">Oladayo Showole <span class="role_title">Junior Web Developer</span></h2>
                             <div class="team-body">
-                                <p>Proficient in several modern web development tools and techniques. Dayo's experience in circuit designs and robotic fundamentals coupled with training in wide range of front-end technologies such as HTML5, CSS3, Sass, JavaScript frameworks enables her to develop visually pleasing responsive user interfaces with amazing User Experience (UX) optimized for viewing on large and small devices.</p>
-	        			   	    <p>Dayo loves to create and experiment with complex designs and new technologies for web (UI/UX) development. He loves all things tech.</p>
+                                <p>Proficient in several modern web development tools and techniques. Dayo specializes in PHP, Laravel Framework and Wordpress development.</p>
+	        			   	    <p>Dayo loves to experiment with complex software programming and new technologies for backend development. He has a National Diploma in Computer Engineering from the Polytechnic Ibadan.</p>
 	        			   
                             </div>
                         </div>
@@ -441,7 +440,7 @@
 			            <!-- Project Done -->
 			            <div class="col-sm-4 col-xs-12 awards-counter">
 			                <i class="fa fa-shopping-basket"></i>
-			                <strong><span class="timer">48</span></strong>
+			                <strong><span class="timer">68</span></strong>
 			                <span class="count-description">Projects completed</span>
 			            </div>
 			
@@ -456,14 +455,14 @@
 			            <!-- Happy Clients -->
 			            <div class="col-sm-4 col-xs-12 awards-counter">
 			                <i class="fa fa-bar-chart"></i>
-			                <strong><span class="timer">28</span></strong>
+			                <strong><span class="timer">38</span></strong>
 			                <span class="count-description">Happy clients</span>
 			            </div>
 			
 			            <!-- Line Of Code -->
 			            <div class="col-sm-4 col-xs-12 awards-counter">
 			                <i class="fa fa-code"></i>
-			                <strong><span class="timer">75056</span></strong>
+			                <strong><span class="timer">105026</span></strong>
 			                <span class="count-description">Lines of Code</span>
 			            </div>
 			
@@ -931,7 +930,7 @@
             <h2 class="section-title contact-title text-center">Contact Us</h2>
             <p class="sub-title contact-subtitle text-center">We’d love to hear from you, and answer any questions you may have.</p>
             
-            <p class="sub-title contact-subtitle text-center">Tafotech building, Opp. Palms mall, Ring Road, Ibadan, Oyo State, Nigeria.</p>
+            <p class="sub-title contact-subtitle text-center">Tafotech building, Opp. Palms mall, Ring Road, Ibadan, Nigeria. Tel. +234 (0)817 070 1758</p>
 
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1 col-sm-10 col-sm-offset-1 col-xs-12">
@@ -953,9 +952,9 @@
                                     </div>
                                     <!-- Subject Field -->
                                     <div class="form-group contact-form-icon">
-                                      <label for="subject" class="sr-only">Subject</label>
-                                      <i class="fa fa-pencil"></i>
-                                      <input type="text" placeholder="Subject" id="subject" class="form-control" name="subject" required>
+                                      <label for="phone" class="sr-only">Phone</label>
+                                      <i class="fa fa-phone"></i>
+                                      <input type="text" placeholder="Phone" id="phone" class="form-control" name="phone" required>
                                     </div>
                                 </div>
                                 <div class="col-sm-7 col-md-8">
@@ -985,7 +984,7 @@
     <section class="goolge-map-section">
          <!-- Toggle Button Area -->
         <div class="toggle-map-button">
-            <button id="mapToggle" class="gmap-btn btn-block">Locate us on google map<i class="fa fa-chevron-down"></i></button>                
+            <button id="mapToggle" class="gmap-btn btn-block">Locate BFD on google map<i class="fa fa-chevron-down"></i></button>                
         </div>
         <!-- Google Map -->
         <div class="google-map-container">
@@ -1022,7 +1021,7 @@
                     </div>
                     
                     <div class="copyright-info">
-                        <p class="copyright"> &copy; <?php echo date("Y", time()); ?> Big Field Digital Ltd., All rights reserved.</p>
+                        <p class="copyright"> &copy; <?php echo date("Y", time()); ?> Big Field Digital Ltd., All rights reserved. Reg. #RC 1298110</p>
                     </div>
                 </div>
             </div>
@@ -1056,7 +1055,7 @@
     <!-- jQuery CountTo -->
     <script src="js/jquery.counTo.js"></script>
     <!-- Goole map API -->
-    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script src="http://maps.google.com/maps/api/js?key=AIzaSyCU8XyYIQN_aRgtU1L0h_5b01KjokfxPqU&sensor=true"></script>
     <!-- gmap.js plugin -->
     <script src="js/gmap.js"></script>
     <!-- Main JS -->

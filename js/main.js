@@ -184,7 +184,7 @@ $(document).ready(function() {
                 }).animate({
                     Counter: $this.text()
                 }, {
-                    duration: 3000,
+                    duration: 7000,
                     easing: 'swing',
                     step: function() {
                         $this.text(Math.ceil(this.Counter));
@@ -220,8 +220,8 @@ $(document).ready(function() {
 
                     map = new GMaps({
                         el: '#gmap-wrapper',
-                        lat: 22.3590557, //Replace Here Location Google Map Lat
-                        lng: 91.8213111, //Replace Here Location Google Map Lng
+                        lat: 7.3627956, //Replace Here Location Google Map Lat
+                        lng: 3.8650622, //Replace Here Location Google Map Lng
                         scrollwheel: false,
                         zoom: 17,
                         zoomControl: true,
@@ -234,8 +234,8 @@ $(document).ready(function() {
 
                     var image = '';
                     map.addMarker({
-                        lat: 22.3590557, //Replace Here Location Google Map Lat
-                        lng: 91.8213111, //Replace Here Location Google Map Lat
+                        lat: 7.3627956, //Replace Here Location Google Map Lat
+                        lng: 3.8650622, //Replace Here Location Google Map Lat
                         icon: image,
                         animation: google.maps.Animation.DROP,
                         verticalAlign: 'bottom',
