@@ -52,8 +52,8 @@ $(document).ready(function() {
     // PreLoader
     $("body").queryLoader2({
         // Preloader options
-        backgroundColor: "#34495e",
-        barHeight: 2,
+        backgroundColor: "#f9710b",
+        barHeight: 4,
         minimumTime: 1000,
         fadeOutTime: 2000,
         percentage: true,
@@ -102,8 +102,8 @@ $(document).ready(function() {
     });
 
     // Testimonial Carousel 
-    $("#testimonial-carousel").owlCarousel({
-        // Testimonial Carousel Settings
+    $("#team-carousel").owlCarousel({
+        // Team Carousel Settings
         navigation: true, // Show next and prev buttons
         navigationText: ["<i class='fa fa-chevron-left'></i>", "<i class='fa fa-chevron-right'></i>"],
         slideSpeed: 1000,

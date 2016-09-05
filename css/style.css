@@ -779,15 +779,15 @@ ul {
 /* ============================
     Testimonial Section
 =============================== */
-.testimonial-section {
+.team-section {
     position: relative;
     width: 100%;
-    background: url("../img/bg/testimonial-bg.jpg") no-repeat scroll center center / cover;
+    background: url("../img/bg/team-bg.jpg") no-repeat scroll center center / cover;
 }
-.testimonial-parallax-bg {
-    background: url("../img/bg/testimonial-bg.jpg") no-repeat fixed center center / cover;
+.team-parallax-bg {
+    background: url("../img/bg/team-bg.jpg") no-repeat fixed center center / cover;
 }
-.testimonial-section:before {
+.team-section:before {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -796,13 +796,13 @@ ul {
     top: 0;
     background-color: rgba(0, 0, 0, 0.8);
 }
-.testimonial-body p , .testimonial-body .client-name a b {
+.team-body p , .team-body .client-name a b {
     color: #fff;
 }
-.testimonial-body p {
+.team-body p {
     line-height: 25px;
 }
-.testimonial-body .client-name a b {
+.team-body .client-name a b {
     font-size: 16px;
     text-transform: capitalize;
 }
@@ -818,12 +818,12 @@ ul {
   top: 12px;
   width: 30px;
 }
-.testimonial-body {
+.team-body {
     position: relative;
     padding-top: 2px;
 }
 /*
-.testimonial-body:before {
+.team-body:before {
   content: "";
   font-family: FontAwesome;
   font-size: 25px;
@@ -831,22 +831,22 @@ ul {
   position: absolute;
   top: 0;
 } */
-.testimonial-image img {
+.team-image img {
     /* box-shadow: 0px 9px 9px 0px rgba(0,0,0,0.64); */
     z-index: 1111;
 }
-#testimonial-carousel .item img{
+#team-carousel .item img{
     display: block;
 }
-#testimonial-carousel {
+#team-carousel {
     position: relative;
 }
-#testimonial-carousel .owl-controls {
+#team-carousel .owl-controls {
     bottom: -50px;
     position: absolute;
     right: 22%;    
 }
-#testimonial-carousel .owl-controls .owl-buttons .owl-prev, #testimonial-carousel .owl-controls .owl-buttons .owl-next {
+#team-carousel .owl-controls .owl-buttons .owl-prev, #team-carousel .owl-controls .owl-buttons .owl-next {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
     border: 1px solid #88888a;
     border-radius: 100%;

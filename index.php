@@ -317,29 +317,29 @@
     
     
 
-    <!-- Testimonial Section -->
+    <!-- Team Section -->
     
    <h2 class="section-title text-center">Our Team</h2>
-    <section class="testimonial-section section-padding parallax testimonial-parallax-bg" id="" data-stellar-background-ratio="0.1">
+    <section class="team-section section-padding parallax team-parallax-bg" id="" data-stellar-background-ratio="0.1">
         
         <div class="container">
         	 
             <div class="row">
-                <!-- Owl-Testimonial Carousel Starts Here -->
-                <div id="testimonial-carousel" class="owl-carousel owl-theme">
+                <!-- Owl-Team Carousel Starts Here -->
+                <div id="team-carousel" class="owl-carousel owl-theme">
                     <!-- Carousl Item -->
                     <div class="item">
-                        <!-- Testimonial Body -->
+                        <!-- Team Body -->
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
                             <h2 class="section-title-left testimoinal-title">Adeniyi Moses Adetola <span class="role_title">CEO / Creative Director</span></h2>
-                            <div class="testimonial-body">
+                            <div class="team-body">
                                <p>An experienced IT Consultant and Entrepreneur who is passionate about digital trends. Moses  harness technology to help imbue forward thinking businesses with an incredibly powerful range of services that translates business needs into effective and efficient IT programs and strategies.</p>
     						   <p>Moses earned a First Class degree (BSc Computing) from the University of Greenwich, London, and MSc in Digital Enterprise Management with Distinction from the University of Westminster, London.</p>
     				
                             </div>
                         </div>
-                        <!-- Testimonial Client Images -->
-                        <div class="col-md-4 col-md-offset-1 col-lg-4 col-lg-offset-1 col-sm-6 col-xs-12 testimonial-image">
+                        <!-- Team Client Images -->
+                        <div class="col-md-4 col-md-offset-1 col-lg-4 col-lg-offset-1 col-sm-6 col-xs-12 team-image">
                             <figure>
                                 <img class="img-responsive center-block" src="img/team/moses.png" alt="">
                             </figure>
@@ -348,18 +348,18 @@
                     
                     <!-- Carousel Item -->
                     <div class="item">
-                        <!-- Testimonial Body -->
+                        <!-- Team Body -->
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
                             <h2 class="section-title-left testimoinal-title">Akinwale Alexander<span class="role_title">Senior Software Developer</span></h2>
-                            <div class="testimonial-body">
+                            <div class="team-body">
                                		<p>Likes to be addressed as a Software craftsman. Wale is an expert in diverse cutting-edge development technologies such as Scala, NodeJs, AngularJs, EmberJS and many others.</p>
 	        			   			<p>He has developed various software applications from games, file recovery programs, embedded application that records temperature data from the environment to building enterprise scale real-time applications.</p>
     						 		<p>Akinwale holds a degree in computer science from the University of education in Ghana. He regularly blogs at www.oluyele.com</p>
 	        			   			 
                             </div>
                         </div>
-                        <!-- Testimonial Client Images -->
-                        <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 testimonial-image">
+                        <!-- Team Client Images -->
+                        <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 team-image">
                             <figure>
                                 <img class="img-responsive center-block" src="img/team/akinwale.png" alt="">
                             </figure>
@@ -368,18 +368,18 @@
 
                     <!-- Carousel Item -->
                     <div class="item">
-                        <!-- Testimonial Body -->
+                        <!-- Team Body -->
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
                             <h2 class="section-title-left testimoinal-title">Olumide Sonowo <span class="role_title">Social Media Manager</span></h2>
-                            <div class="testimonial-body">
+                            <div class="team-body">
                                 	<p>Olumide brings a unique flair to our digital marketing team through strategic planning, design and execution.</p>
 	        					 	<p>He leads our creative digital marketing campaigns, through creating striking and engaging content to promote our customers' brands across various online marketing channels.</p>
 	        					 	<p>His has MSc in Information Communication &and; Technology from National Open University of Nigeria. </p>
 	        					
                             </div>
                         </div>
-                        <!-- Testimonial Client Images -->
-                        <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 testimonial-image">
+                        <!-- Team Client Images -->
+                        <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 team-image">
                             <figure>
                                 <img class="img-responsive center-block" src="img/team/olumide.png" alt="">
                             </figure>
@@ -388,17 +388,17 @@
 
                     <!-- Carousel Item -->
                     <div class="item">
-                        <!-- Testimonial Body -->
+                        <!-- Team Body -->
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
-                            <h2 class="section-title-left testimoinal-title">Olabimpe Akileo <span class="role_title">Customer Service</span></h2>
-                            <div class="testimonial-body">
+                            <h2 class="section-title-left testimoinal-title">Olabimpe Oyekan <span class="role_title">Customer Service</span></h2>
+                            <div class="team-body">
                                 <p>Bimpe has a passion for nurturing new and existing customer relationships through impeccable customer service. Always with a smiling face, and heart ready to help clients and prospects.</p>
 	        				    <p>A graduate of banking and finance from the polytechnic Ibadan.</p>
 	        						
                             </div>
                         </div>
-                        <!-- Testimonial Client Images -->
-                        <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 testimonial-image">
+                        <!-- Team Client Images -->
+                        <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 team-image">
                             <figure>
                                 <img class="img-responsive center-block" src="img/team/olabimpe.png" alt="">
                             </figure>
@@ -408,17 +408,17 @@
                     
                      <!-- Carousel Item -->
                     <div class="item">
-                        <!-- Testimonial Body -->
+                        <!-- Team Body -->
                         <div class="col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 col-sm-6 col-xs-12">
                             <h2 class="section-title-left testimoinal-title">Oladayo Showole <span class="role_title">Junior Web Developer</span></h2>
-                            <div class="testimonial-body">
+                            <div class="team-body">
                                 <p>Proficient in several modern web development tools and techniques. Dayo's experience in circuit designs and robotic fundamentals coupled with training in wide range of front-end technologies such as HTML5, CSS3, Sass, JavaScript frameworks enables her to develop visually pleasing responsive user interfaces with amazing User Experience (UX) optimized for viewing on large and small devices.</p>
 	        			   	    <p>Dayo loves to create and experiment with complex designs and new technologies for web (UI/UX) development. He loves all things tech.</p>
 	        			   
                             </div>
                         </div>
-                        <!-- Testimonial Client Images -->
-                        <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 testimonial-image">
+                        <!-- Team Client Images -->
+                        <div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12 team-image">
                             <figure>
                                 <img class="img-responsive center-block" src="img/team/oladayo.png" alt="">
                             </figure>
@@ -475,7 +475,7 @@
          
     </section>
 
-    <!-- End Of Testimonial Section -->
+    <!-- End Of Team Section -->
     
     
     
