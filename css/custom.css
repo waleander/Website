@@ -548,6 +548,14 @@ opacity:0.9;}
 
 
 
+
+.thumbnails span.portfolio-overlay { 
+    border: 5px solid #fff; 
+}
+
+
+
+
 /*---- Mobile version  ----*/
 @media only screen
 and (max-width : 780px) {

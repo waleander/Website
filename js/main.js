@@ -1,32 +1,10 @@
 /*
-Template Name: Effacy - Creative One Page Template
-Author: ThemeBite
-Author URI: http://themebite.com/
+Author: Big Field Digital
+Author URI: http://bigfielddigital.com/
 Version: 1.0
-Developed and Designed By: ThemeBite
+Developed and Designed By: Big Field Digital
 */
-/*
-====================================
-[ JS TABLE OF CONTENT ]
-------------------------------------
-    1.0 - Parallax Effect
-    2.0 - PreLoader
-    3.0 - Sticky Menu
-    4.0 - Text-Rotator
-    5.0 - jQuery Smooth Scroll
-    6.0 - Responsive Menu
-    7.0 - Scroll Spy
-    8.0 - Testimonial Carousel
-    9.0 - Partners Carousel
-    10  - Blog Post Carousel
-    11  - Photo Gallery
-    12  - jQuery Light Box 
-    13  - Counter Section 
-    14  - Goolge Map 
--------------------------------------
-[ END JS TABLE OF CONTENT ]
-=====================================
-*/
+ 
 $(window).load(function() {
 
     "use strict";
@@ -101,7 +79,7 @@ $(document).ready(function() {
         offset: 70
     });
 
-    // Testimonial Carousel 
+    // Team Carousel 
     $("#team-carousel").owlCarousel({
         // Team Carousel Settings
         navigation: true, // Show next and prev buttons

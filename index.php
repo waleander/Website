@@ -10,7 +10,7 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Big Field Digital is a web design and digital marketing firm in Nigeria.">
-        <meta name="keywords" content="Web design in Nigeria, Web design in Ibadan, Digital Marketing Ibadan, Software development Nigeria">
+        <meta name="keywords" content="Web design in Nigeria, Web design in Ibadan, Digital Marketing Ibadan, Software development Nigeria, Web design training in Ibadan">
         <meta name="author" content="bigfielddigtal.com">
         
         <link rel="shortcut icon" href="img/favicon.ico">
@@ -506,31 +506,34 @@
                     <!-- Showcase Grid -->
                     <div id="grid" class="clearfix">
                     	
+                    	  
+                        
+                         <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
+                            <a href="img/portfolio/better-view/raj_business_card.jpg">
+                                <img src="img/portfolio/raj_business_card.jpg" alt="Raj Consultancy Business Card">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">Raj Consultancy Business Card
+                                    	<ul class="work-list">
+											<li>Branding</li> 
+											<li>Stationary</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                    	
                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
-                                    	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>Website</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
-                        
-                        
-                        
-                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
                             <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
+                                <img src="img/portfolio/rasmed_website.jpg" alt="Rasmed Publications Website">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
+                                    <span class="details">Rasmed Publications Website
                                     	<ul class="work-list">
 											<li>Strategy</li> 
 											<li>Website</li> 
@@ -544,14 +547,32 @@
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
+                            <a href="img/portfolio/better-view/aarano_brochure.jpg">
+                                <img src="img/portfolio/aarano_brochure.jpg" alt="AARano Brochure 2016">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
+                                    <span class="details">AARAno Brochure 2016
                                     	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>Website</li> 
+											<li>Content Develpment</li> 
+											<li>Brochure Design</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                         <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
+                            <a href="img/portfolio/better-view/mo_therapy_2.jpg">
+                                <img src="img/portfolio/mo_therapy_2.jpg" alt="Mo Therapies Roller Banner">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">MoTherapies Roller Banner
+                                    	<ul class="work-list">
+											<li>Branding</li> 
+											<li>Design</li> 
 										</ul>	
                                     </span>
                                 </span>
@@ -561,83 +582,85 @@
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
+                            <a href="img/portfolio/better-view/integrity_invoice.jpg">
+                                <img src="img/portfolio/integrity_invoice.jpg" alt="Integrity Invoice">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
+                                    <span class="details">Integrity Invoicing App
                                     	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>Website</li> 
+											<li>Mobile App</li> 
+											<li>Web Application</li> 
 										</ul>	
                                     </span>
                                 </span>
                             </a>
                         </div>
                         
-                        
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
-                                    	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>Website</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
-                        
-                        
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
-                                    	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>Website</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
                         
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
+                            <a href="img/portfolio/better-view/tiddo_logo.jpg">
+                                <img src="img/portfolio/tiddo_logo.jpg" alt="Tiddo Media Logo">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
+                                    <span class="details">Tiddo Media Logo
                                     	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>Website</li> 
+											<li>Branding</li> 
+											<li>Logo</li> 
 										</ul>	
                                     </span>
                                 </span>
                             </a>
                         </div>
                         
+                        
+                        
+                         <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
+                            <a href="img/portfolio/better-view/aarano_website.jpg">
+                                <img src="img/portfolio/aarano_website.jpg" alt="AARano Website">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">AARano Website Redesign
+                                    	<ul class="work-list">
+											<li>Strategy</li> 
+											<li>CMS Website</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        
+                        
+                         <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
+                            <a href="img/portfolio/better-view/wesie.jpg">
+                                <img src="img/portfolio/wesie.jpg" alt="WESIE Website">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">WESIE Website
+                                    	<ul class="work-list">
+											<li>Strategy</li> 
+											<li>CMS Website</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                       
                         
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
+                            <a href="img/portfolio/better-view/daword.jpg">
+                                <img src="img/portfolio/daword.jpg" alt=" Daword Media Quiz">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
+                                    <span class="details">Daword Quiz
                                     	<ul class="work-list">
-											<li>Strategy</li> 
 											<li>Website</li> 
+											<li>Web Application</li> 
 										</ul>	
                                     </span>
                                 </span>
@@ -646,34 +669,19 @@
                         
                         
                         
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
-                                    	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>Website</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
                         
                         
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
+                            <a href="img/portfolio/better-view/almond_cake.jpg">
+                                <img src="img/portfolio/almond_cake.jpg" alt="Almond Cakes and Events">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
+                                    <span class="details">Almond Cakes Flyer
                                     	<ul class="work-list">
+											<li>Branding</li> 
 											<li>Strategy</li> 
-											<li>Website</li> 
 										</ul>	
                                     </span>
                                 </span>
@@ -685,14 +693,14 @@
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
+                            <a href="img/portfolio/better-view/labs_events.jpg">
+                                <img src="img/portfolio/labs_events.jpg" alt="LABS Executive Events">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
+                                    <span class="details">LABS Executive Events
                                     	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>Website</li> 
+											<li>CMS Website</li> 
+											<li>Events Booking</li> 
 										</ul>	
                                     </span>
                                 </span>
@@ -702,15 +710,15 @@
                         
                         
                          <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="">
+                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
+                            <a href="img/portfolio/better-view/irke_logo.jpg">
+                                <img src="img/portfolio/irke_logo.jpg" alt="Irke Olaniyi's Logo">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
-                                    <span class="details">Rasmed Publications
+                                    <span class="details">Irke Olaniyi's Logo
                                     	<ul class="work-list">
 											<li>Strategy</li> 
-											<li>Website</li> 
+											<li>Branding</li> 
 										</ul>	
                                     </span>
                                 </span>
