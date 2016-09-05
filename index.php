@@ -94,7 +94,7 @@
             <div class="slider-caption">
                 <div class="container">
                     <div class="row">
-                        <h1>Fastest growing web design &amp; digital marketing firm in Ibadan.</h1>
+                        <h1>Fastest growing web design <br />&amp; digital marketing firm in Ibadan.</h1>
                         <h5>We build result-driven web solutions that help our clients become more profitable.</h5>
                         
                         <div class="callaction">
@@ -114,7 +114,7 @@
                 <div class="">
                 	 
                 	 <div class="about_bfd intro">
-						<h2>A Nigeria-based Digital marketing &amp; Web development firm.</h2>
+						<h2>A Nigeria-based Digital marketing, Web design and Software development firm.</h2>
 						<hr class="sep">
 						<p>Working from the heart of Ibadan metropolis, Big Field Digital (BFD) is a team of experienced web designers, software developers and digital marketers specializing in digital products design and brand communications through cuting-edge web technologies and digital marketing strategy.</p>
 						<div id="latest_work"></div>
@@ -1018,7 +1018,7 @@
                     <div class="social-icons mt-30">
                         <a href="https://www.facebook.com/bigfielddigital/"><i class="fa fa-facebook"></i></a>
                         <a href="https://twitter.com/bigfielddigital/"><i class="fa fa-twitter"></i></a>
-                        <a href="https://plus.google.com/bigfielddigital/"><i class="fa fa-google-plus"></i></a>
+                        <a href="https://plus.google.com/+Bigfielddigital"><i class="fa fa-google-plus"></i></a>
                     </div>
                     
                     <div class="copyright-info">
