@@ -3,13 +3,13 @@
     <head>
 
         <!-- Site Title -->
-        <title>Big Field Digital</title>
+        <title>Big Field Digital - Web Design in Ibadan Nigeria | Digital Marketing in Ibadan, Nigeria</title>
 
         <!-- Site Meta Info -->
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Big Field Digital is a web design and digital marketing firm in Nigeria.">
+        <meta name="description" content="Web Design and Software Development in Ibadan Nigeria | Digital Marketing in Ibadan, Nigeria.">
         <meta name="keywords" content="Web design in Nigeria, Web design in Ibadan, Digital Marketing Ibadan, Software development Nigeria, Web design training in Ibadan">
         <meta name="author" content="bigfielddigtal.com">
         
@@ -25,13 +25,10 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/owl.carousel.css">
         <link rel="stylesheet" href="css/owl.theme.css">
+        <link rel="stylesheet" href="css/contact-buttons.css">
         <link rel="stylesheet" href="css/style.css">
         
-        <!-- Color Styles -->
-        <!-- <link rel="stylesheet" href="css/colors/color-green.css">
-        <link rel="stylesheet" href="css/colors/color-blue.css">
-         <link rel="stylesheet" href="css/colors/color-purple.css">
-        <link rel="stylesheet" href="css/colors/color-aqua.css"> -->
+        <!-- Color Styles --> 
         <link rel="stylesheet" href="css/colors/default-color.css">
         <link rel="stylesheet" href="css/custom.css">
         
@@ -55,8 +52,7 @@
 
     </head>
     <body>
-
-    <!-- Heaser Area Start -->
+ 
     <header class="header-area">
         <!-- Navigation start -->
         <nav class="navbar navbar-custom tb-nav" role="navigation">
@@ -89,7 +85,7 @@
     
     <!-- Navigation end -->
 
-    <!-- hero-section -->
+    <!-- Banner section -->
     <section class="hero-section hero-parallax-bg parallax" id="top" data-stellar-background-ratio="0.1">
             <div class="slider-caption">
                 <div class="container">
@@ -106,7 +102,7 @@
                 </div>
             </div>
     </section>
-    <!-- End Of Hero Section -->
+    <!-- End Of Banner Section -->
      
     <!-- Recent work section -->
     <section class="" id="top" data-stellar-background-ratio="0.1">
@@ -116,11 +112,11 @@
                 	 <div class="about_bfd intro">
 						<h2>A Nigeria-based Digital marketing, Web design and Software development firm.</h2>
 						<hr class="sep">
-						<p>Working from the heart of Ibadan metropolis, Big Field Digital (BFD) is a team of experienced web designers, software developers and digital marketers specializing in digital products design and brand communications through cuting-edge web technologies and digital marketing strategy.</p>
+						<p>Working from the heart of Ibadan metropolis, Big Field Digital (BFD) is a team of experienced web designers, software developers and digital marketers specializing in digital products design / development and brand communications through cuting-edge web technologies and digital marketing strategy.</p>
 						<div id="latest_work"></div>
 					</div>
 		
-                    <h2 class="section-title text-center">Latest Work</h2>   
+                    <h2 class="section-title text-center">Our Latest Work</h2>   
                     <div class="row recent_works" >
                          
                         <div class="col-sm-6 col-xs-12 no-padding col_item work_item">
@@ -148,9 +144,9 @@
                     		 
                 		</div><!-- END col_item -->
                 		
-                		<div class="col-sm-6 col-xs-12 no-padding col_item work_item">
+                		<div class="col-sm-6 col-xs-12 no-padding col_item work_item recent_thumbnails">
                     		
-                    		<a href="#" target="_blank" class="aarano cols" style="" title="Click to download the Brochure PDF">
+                    		<a href="img/portfolio/better-view/aarano_brochure.jpg" target="_blank" class="aarano cols" style="" title="Click to download the Brochure PDF">
                     			
                     			 <img src="img/portfolio/recent/aarano2.jpg" alt="AARano Nigeria" style="visibility: hidden;" />
 	
@@ -173,9 +169,9 @@
                 		</div><!-- END col_item -->
                 		
                 		
-                		 <div class="col-sm-6 col-xs-12 no-padding col_item work_item">
+                		 <div class="col-sm-6 col-xs-12 no-padding col_item work_item recent_thumbnails">
                     		
-                    		<a href="#" class="raj cols" style="" title="LABS Events Website">
+                    		<a href="img/portfolio/better-view/raj_august_2016.jpg" class="raj cols" style="" title="LABS Events Website">
                     			
                     			 <img src="img/portfolio/recent/raj1.jpg" alt="Raj" style="visibility: hidden;" />
 	
@@ -198,9 +194,9 @@
                 		</div><!-- END col_item -->
                 		
                 		
-                		 <div class="col-sm-6 col-xs-12 no-padding col_item work_item">
+                		 <div class="col-sm-6 col-xs-12 no-padding col_item work_item recent_thumbnails">
                     		
-                    		<a href="#" class="tiddo cols" style="" title="Tiddo Media Logo">
+                    		<a href="img/portfolio/better-view/tiddo_logo.jpg" class="tiddo cols" style="" title="Tiddo Media Logo">
                     			
                     			 <img src="img/portfolio/recent/tiddo2.jpg" alt="Tiddo Media" style="visibility: hidden;" />
 	
@@ -252,7 +248,7 @@
     <section class="our-services-section section-padding" id="service">
         <div class="container">
             <h2 class="section-title text-center">What we do</h2>
-            <p class="sub-title text-center big_p">Web Design, Web/Mobile app development, Graphic Design, Content creation, Digital marketing.</p>
+            <p class="sub-title text-center big_p">Web Design, Web/Mobile app development, Graphic Design, Content creation and Digital marketing.</p>
 
             <div class="row our-services">
 
@@ -532,7 +528,7 @@
                     	
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
-                            <a href="img/portfolio/better-view/rasmed_website1.jpg">
+                            <a href="img/portfolio/better-view/rasmed_website.jpg">
                                 <img src="img/portfolio/rasmed_website.jpg" alt="Rasmed Publications Website">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
@@ -565,10 +561,83 @@
                         </div>
                         
                         
+                         
+                        <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
+                            <a href="img/portfolio/better-view/aarano_website.jpg">
+                                <img src="img/portfolio/aarano_website.jpg" alt="AARano Website">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">AARano Website Redesign
+                                    	<ul class="work-list">
+											<li>Strategy</li> 
+											<li>CMS Website</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/mo_therapy_2.jpg">
+                            <a href="img/portfolio/better-view/tiddo_logo.jpg">
+                                <img src="img/portfolio/tiddo_logo.jpg" alt="Tiddo Media Logo">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">Tiddo Media Logo
+                                    	<ul class="work-list">
+											<li>Branding</li> 
+											<li>Logo</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        
+                        
+                         
+                        
+                         <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
+                            <a href="img/portfolio/better-view/labs_events.jpg">
+                                <img src="img/portfolio/labs_events.jpg" alt="LABS Executive Events">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">LABS Executive Events
+                                    	<ul class="work-list">
+											<li>CMS Website</li> 
+											<li>Events Booking</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        
+                         <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
+                            <a href="img/portfolio/better-view/almond_cake.jpg">
+                                <img src="img/portfolio/almond_cake.jpg" alt="Almond Cakes and Events">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">Almond Cakes Flyer
+                                    	<ul class="work-list">
+											<li>Branding</li> 
+											<li>Strategy</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                         <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
+                            <a href="img/portfolio/better-view/mo_therapies.jpg">
                                 <img src="img/portfolio/mo_therapy_2.jpg" alt="Mo Therapies Roller Banner">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
@@ -599,41 +668,7 @@
                             </a>
                         </div>
                         
-                        
-                        
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/tiddo_logo.jpg">
-                                <img src="img/portfolio/tiddo_logo.jpg" alt="Tiddo Media Logo">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">Tiddo Media Logo
-                                    	<ul class="work-list">
-											<li>Branding</li> 
-											<li>Logo</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
-                        
-                        
-                        
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
-                            <a href="img/portfolio/better-view/aarano_website.jpg">
-                                <img src="img/portfolio/aarano_website.jpg" alt="AARano Website">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">AARano Website Redesign
-                                    	<ul class="work-list">
-											<li>Strategy</li> 
-											<li>CMS Website</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
+                         
                         
                         
                          <!-- Single Portfolio Item -->
@@ -651,66 +686,8 @@
                                 </span>
                             </a>
                         </div>
-                       
                         
-                        
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
-                            <a href="img/portfolio/better-view/daword.jpg">
-                                <img src="img/portfolio/daword.jpg" alt=" Daword Media Quiz">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">Daword Quiz
-                                    	<ul class="work-list">
-											<li>Website</li> 
-											<li>Web Application</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
-                        
-                        
-                        
-                        
-                        
-                        
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/almond_cake.jpg">
-                                <img src="img/portfolio/almond_cake.jpg" alt="Almond Cakes and Events">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">Almond Cakes Flyer
-                                    	<ul class="work-list">
-											<li>Branding</li> 
-											<li>Strategy</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
-                        
-                        
-                        
-                        
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "webdesign"]'>
-                            <a href="img/portfolio/better-view/labs_events.jpg">
-                                <img src="img/portfolio/labs_events.jpg" alt="LABS Executive Events">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">LABS Executive Events
-                                    	<ul class="work-list">
-											<li>CMS Website</li> 
-											<li>Events Booking</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
-                        
-                        
+                         
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
@@ -728,8 +705,24 @@
                             </a>
                         </div>
                         
-                       
                         
+                        
+                         <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
+                            <a href="img/portfolio/better-view/daword.jpg">
+                                <img src="img/portfolio/daword.jpg" alt=" Daword Media Quiz">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">Daword Quiz
+                                    	<ul class="work-list">
+											<li>Website</li> 
+											<li>Web Application</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                         
 
                     </div>
                 </div>
@@ -942,6 +935,10 @@
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyCU8XyYIQN_aRgtU1L0h_5b01KjokfxPqU&sensor=true"></script>
     <!-- gmap.js plugin -->
     <script src="js/gmap.js"></script>
+    
+    <!-- Load Social Contact Buttons JS -->
+    <script src="js/jquery.contact-buttons.js"></script>
+    
     <!-- Main JS -->
     <script src="js/main.js"></script>
     

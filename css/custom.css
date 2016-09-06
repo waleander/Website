@@ -1,3 +1,7 @@
+.sl-wrapper .sl-image { 
+    border: 8px solid #fff; 
+}
+
 p.big_p{font-size:1.2em;}
 
 .contact-subtitle{font-size:1.1em; padding:0; margin:0; font-weight:bold;}
