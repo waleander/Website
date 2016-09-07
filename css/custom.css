@@ -1,4 +1,12 @@
-/* .thumbnails{display:none;} */ 
+.we_are_hiring{position:absolute; top:10px; left:-5px;}
+
+.team-body p {
+    font-size:1.1em;
+}
+.protfolio-section  p{margin:0; padding:0; font-size:1.1em;}
+
+.hideElement{display:none;}
+.showElement{display:block;}
 
 .clearload{clear:both; height:20px; width:100%; overflow: hidden;}
 
@@ -116,7 +124,7 @@ h2 span.role_title{color:#eee !important; font-size:0.7em; display: block;}
 	background-color:#333;
 }
 
-.tel_number{font-size:1.7em; letter-spacing:-1px; font-family: 'Roboto', sans-serif; color:#f9710b;
+.tel_number{font-size:1.5em; letter-spacing:-1px; font-family: 'Roboto', sans-serif; color:#f9710b;
 font-weight: 700; padding:20px 10px 2px 25px;}
 .is-sticky .tel_number{font-size:1.5em; padding:16px 10px 2px 25px;}
 
@@ -252,6 +260,15 @@ opacity:0.9;}
 
 .aarano{background: url("../img/portfolio/recent/aarano2.jpg") no-repeat 50% / 100%; }
 .aarano img{max-width:100%; height:auto;}
+
+
+.aarano_web{background: url("../img/portfolio/recent/aarano_website.jpg") no-repeat 50% / 100%; }
+.aarano_web img{max-width:100%; height:auto;}
+
+.almond{background: url("../img/portfolio/recent/almond1.jpg") no-repeat 50% / 100%; }
+.almond img{max-width:100%; height:auto;}
+
+
 
 
 .raj{background: url("../img/portfolio/recent/raj1.jpg") no-repeat 50% / 100%; }
@@ -577,6 +594,9 @@ opacity:0.9;}
 /*---- Mobile version  ----*/
 @media only screen
 and (max-width : 780px) {
+	
+	.we_are_hiring img{max-width:40px; height:auto;}
+	
 	
 	.logo { padding: 0 0 3px 15px;
     -webkit-transition: all 0.4s ease-in-out 0s;

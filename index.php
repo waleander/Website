@@ -26,11 +26,11 @@
         <link rel="stylesheet" href="css/owl.carousel.css">
         <link rel="stylesheet" href="css/owl.theme.css">
         <link rel="stylesheet" href="css/contact-buttons.css">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/style.min.css">
         
         <!-- Color Styles --> 
         <link rel="stylesheet" href="css/colors/default-color.css">
-        <link rel="stylesheet" href="css/custom.css">
+        <link rel="stylesheet" href="css/custom.min.css">
         
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="css/responsive.css">
@@ -76,7 +76,7 @@
                     <li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
                     <!-- <li><a class="page-scroll" href="#blog">Blog</a></li>  -->
                     <li><a class="page-scroll" href="#contact">Contact Us</a></li> 
-                    <li class="tel_number"><i class="fa fa-phone"></i> &nbsp; 0817 070 1758</li> 
+                    <li class="tel_number"><i class="fa fa-phone"></i> &nbsp; +234817 070 1758</li> 
                 </ul>
               </div>
             </div>
@@ -88,6 +88,7 @@
     <!-- Banner section -->
     <section class="hero-section hero-parallax-bg parallax" id="top" data-stellar-background-ratio="0.1">
             <div class="slider-caption">
+            	<div class="we_are_hiring"><a class="page-scroll" href="#contact"><img src="img/wearehiring2.png" alt="We are hiring" /></a></div>
                 <div class="container">
                     <div class="row">
                         <h1><span class="underline">Fastest growing</span> web design &amp;<br /> digital marketing firm in Ibadan, Nigeria.</h1>
@@ -168,6 +169,8 @@
                     		 
                 		</div><!-- END col_item -->
                 		
+            
+                		
                 		
                 		 <div class="col-sm-6 col-xs-12 no-padding col_item work_item recent_thumbnails">
                     		
@@ -216,6 +219,57 @@
 							</a>
                     		 
                 		</div><!-- END col_item -->
+                		
+                		
+                		    		
+                		<div class="col-sm-6 col-xs-12 no-padding col_item work_item recent_thumbnails">
+                    		
+                    		<a href="img/portfolio/better-view/aarano_website.jpg" target="_blank" class="aarano_web cols" style="" title="Click to visit the website">
+                    			
+                    			 <img src="img/portfolio/recent/aarano_website.jpg" alt="AARano" style="visibility: hidden;" />
+	
+									<div class="content">
+										<h3>AA Rano Oil &amp; Gas</h3>
+										<hr class="sep">
+										<p>A large CMS-driven Corporate website for a leading brand in downstream sector of Nigeria.
+										<span class="date_completed">(September, 2016)</span></p>
+									</div>
+									
+									<div class="overlay orange"></div>	
+									
+									<ul class="work-list">
+										<li>Strategy</li> 
+										<li>Website</li> 
+										<li>Email Marketing</li>
+									</ul>						
+							</a>
+                    		 
+                		</div><!-- END col_item -->
+                		
+                		
+                		<div class="col-sm-6 col-xs-12 no-padding col_item work_item recent_thumbnails">
+                    		
+                    		<a href="img/portfolio/better-view/almond_flyer.jpg" target="_blank" class="almond cols" style="" title="Click to visit the website">
+                    			
+                    			 <img src="img/portfolio/recent/almond1.jpg" alt="Almond" style="visibility: hidden;" />
+	
+									<div class="content">
+										<h3>Almond Cakes &amp; Events</h3>
+										<hr class="sep">
+										<p>A5 Flyer / E-Flyer for a top class catering and event management company in Ibadan.
+										<span class="date_completed">(August, 2016)</span></p>
+									</div>
+									
+									<div class="overlay orange"></div>	
+									
+									<ul class="work-list">
+										<li>Branding</li> 
+										<li>Artwork Design</li>  
+									</ul>						
+							</a>
+                    		 
+                		</div><!-- END col_item -->
+                		
                 
                 
                     </div><!-- END ROW -->
@@ -232,7 +286,7 @@
                 <div class="container">
                     <div class="row"> 
                         <h2>We are constantly learning ...</h2>
-                        <p>and turning digital trends into unique marketing opportunities <br /> and creative growth hacking plans for our clients to outperform their competitors.</p>
+                        <p>Turning digital trends into unique marketing opportunities <br /> and creative growth hacking plans for our clients to outperform their competitors.</p>
                     	
                     	<p>We provide a service that breaks away from the generic norm of the Nigeria IT industry. <br />We brainstorm with our clients to push the boundaries and unlock more success.</p>
                     
@@ -299,7 +353,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Training</h3>
-                            <p>Front-end, backend and full-stack technology training. Learn from the expert.</p>
+                            <p>Front-end, Back-end and Full-stack technology training. Learn from the expert.</p>
                         </div>
                     </div>
                 </div>
@@ -486,7 +540,7 @@
         <div class="container-fluid">
             <!-- Portfolio Section Title -->
             <h2 class="section-title text-center">Our portfolio</h2>
-            <!-- <p class="sub-title text-center">Here are few selected works.</p> -->
+             <p class="sub-title text-center">Here are few samples of our work. Please feel free to request for more.</p> 
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 text-center portfolio-filter mt-30 mb-30">
                     <!-- Portfolio Filter Navigation -->
@@ -617,7 +671,7 @@
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
-                            <a href="img/portfolio/better-view/almond_cake.jpg">
+                            <a href="img/portfolio/better-view/almond_flyer.jpg">
                                 <img src="img/portfolio/almond_cake.jpg" alt="Almond Cakes and Events">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
@@ -630,6 +684,24 @@
                                 </span>
                             </a>
                         </div>
+                        
+                        
+                          <!-- Single Portfolio Item -->
+                        <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
+                            <a href="img/portfolio/better-view/integrityinvoice.jpg">
+                                <img src="img/portfolio/integrityinvoice.jpg" alt="Integrity Invoice">
+                                <span class="portfolio-overlay">
+                                    <i class="fa fa-plus"></i> 
+                                    <span class="details">Integrity Invoicing App
+                                    	<ul class="work-list">
+											<li>Mobile App</li> 
+											<li>Web Application</li> 
+										</ul>	
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        
                         
                         
                         
@@ -649,25 +721,7 @@
                             </a>
                         </div>
                         
-                        
-                         <!-- Single Portfolio Item -->
-                        <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
-                            <a href="img/portfolio/better-view/integrityinvoice.jpg">
-                                <img src="img/portfolio/integrityinvoice.jpg" alt="Integrity Invoice">
-                                <span class="portfolio-overlay">
-                                    <i class="fa fa-plus"></i> 
-                                    <span class="details">Integrity Invoicing App
-                                    	<ul class="work-list">
-											<li>Mobile App</li> 
-											<li>Web Application</li> 
-										</ul>	
-                                    </span>
-                                </span>
-                            </a>
-                        </div>
-                        
                          
-                        
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
@@ -801,44 +855,46 @@
         <div class="container">
             <!-- Contact Us Section Title -->
             <h2 class="section-title contact-title text-center">Contact Us</h2>
-            <p class="sub-title contact-subtitle text-center">We’d love to hear from you, let's discuss your project.</p>
+            <p class="sub-title contact-subtitle text-center">We’d love to hear from you, let's discuss your project today.</p>
             
-            <p class="sub-title contact-subtitle text-center">Tafotech building, Opp. Palms mall, Ring Road, Ibadan, Nigeria. <br />Tel. +234 (0)817 070 1758</p>
+            <p class="sub-title contact-subtitle text-center">Tafotech building, Opp. Palms mall / Shoprite, Ring Road, Ibadan, Nigeria. <br />Tel. +234 (0)817 070 1758</p>
 
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 col-lg-10 col-lg-offset-1 col-sm-10 col-sm-offset-1 col-xs-12">
                     <div class="contact-form-section mt-50">
-                        <form method="POST" action="" id="contactForm" name="contact-form" role="form">
-                            <div class="row">
+                        <form method="POST" action="" id="contactForm" class="" name="contact-form" role="form">
+                            <div class="contactFormWrap"></div>
+                            <div id="contact_form_error"></div>
+                            <div class="row contactform_elements">
                                 <div class="col-sm-5 col-md-4">
                                     <!-- Name Field -->
                                     <div class="form-group contact-form-icon">
                                       <label class="sr-only">Name</label>
                                       <i class="fa fa-user"></i>
-                                      <input type="text" placeholder="Name" id="name" class="form-control" name="name" required>
+                                      <input type="text" minlength="2" placeholder="Name" id="thename" class="form-control" name="name" autocomplete="off" required>
                                     </div>
                                     <!-- Email Field -->
                                     <div class="form-group contact-form-icon">
-                                      <label for="email" class="sr-only">Email</label>
+                                      <label for="theemail" class="sr-only">Email</label>
                                       <i class="fa fa-envelope"></i>
-                                      <input type="email" placeholder="Email" id="email" class="form-control" name="email" required>
+                                      <input type="email" placeholder="Email" id="theemail" class="form-control" name="email" autocomplete="off" required>
                                     </div>
                                     <!-- Subject Field -->
                                     <div class="form-group contact-form-icon">
-                                      <label for="phone" class="sr-only">Phone</label>
+                                      <label for="thephone" class="sr-only">Phone</label>
                                       <i class="fa fa-phone"></i>
-                                      <input type="text" placeholder="Phone" id="phone" class="form-control" name="phone" required>
+                                      <input type="text" placeholder="Phone" id="thephone" class="form-control" name="phone" autocomplete="off" required>
                                     </div>
                                 </div>
                                 <div class="col-sm-7 col-md-8">
                                     <div class="form-group contact-form-icon">
-                                      <label for="message" class="sr-only">Message</label>
+                                      <label for="themessage" class="sr-only">Message</label>
                                       <i class="fa fa-keyboard-o"></i>
-                                      <textarea placeholder="Message" rows="7" id="message" class="form-control" name="message" required></textarea>
+                                      <textarea placeholder="Message" rows="7" id="themessage" class="form-control" name="message" required></textarea>
                                     </div>
                                 </div>
                                 <div class="col-sm-5 col-md-4 text-center contact-button-padding">
-                                    <button class="btn-primary btn-contact btn-block" name="submit" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+                                    <button id="send-contact" class="btn-primary btn-contact btn-block" name="submit" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
                                 </div>
                             </div>
                         </form>
@@ -931,12 +987,12 @@
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyCU8XyYIQN_aRgtU1L0h_5b01KjokfxPqU&sensor=true"></script>
     <!-- gmap.js plugin -->
     <script src="js/gmap.js"></script>
-    
-    <!-- Load More JS -->
-    <script src="js/jquery.loadmore.js"></script>
-    
+      
     <!-- Load Social Contact Buttons JS -->
     <script src="js/jquery.contact-buttons.js"></script>
+    
+    <!-- Contact JS -->
+    <script src="js/contact.js"></script>
     
     <!-- Main JS -->
     <script src="js/main.js"></script>
