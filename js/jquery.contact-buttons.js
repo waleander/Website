@@ -83,6 +83,8 @@
         }
       }
       
+      oContainer.find('.cb-ancor').toggleClass('cb-hidden');
+      
       // Make the buttons visible
       setTimeout(function(){
         oContainer.animate({ left : 0 });

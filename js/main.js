@@ -288,6 +288,7 @@ $(document).ready(function() {
     
      
 	// Google Fonts
+	/*
 	WebFontConfig = {
 	  google: { families: [ 'Lato:400,700,300:latin' ] }
 	};
@@ -299,17 +300,34 @@ $(document).ready(function() {
 	  wf.async = 'true';
 	  var s = document.getElementsByTagName('script')[0];
 	  s.parentNode.insertBefore(wf, s);
-	})();
+	})(); */
 	
 	// Initialize Share-Buttons
 	$.contactButtons({
 	  effect  : 'slide-on-scroll',
 	  buttons : {
-	    'twitter':   { class: 'twitter', use: true, link: 'https://www.twiiter.com/bigifielddigital', extras: 'target="_blank"' },
-	    'facebook':   { class: 'facebook', use: true, link: 'https://www.facebook.com/bigifielddigital', extras: 'target="_blank"' },
-	    'google':     { class: 'gplus',    use: true, link: 'https://plus.google.com/bigifielddigital' } 
+	    'twitter':   { class: 'twitter', use: true, link: 'https://www.twitter.com/bigfielddigital', extras: 'target="_blank"' },
+	    'facebook':   { class: 'facebook', use: true, link: 'https://www.facebook.com/bigfielddigital', extras: 'target="_blank"' },
+	    'google':     { class: 'gplus',    use: true, link: 'https://plus.google.com/+Bigfielddigital' , extras: 'target="_blank"'} 
 	  }
 	});
-
+	 
+	 
+	 
+	 // Load more content
+	 /*
+	 $(".thumbnails").slice(0, 4).show();
+     $("#loadMore").on('click', function (e) {
+        e.preventDefault();
+        $(".thumbnails:hidden").slice(0, 4).slideDown();
+        if ($(".thumbnails:hidden").length == 0) {
+            $("#load").fadeOut('slow');
+        }
+        $('html,body').animate({
+            scrollTop: $(this).offset().top - 350
+        }, 1000);
+     });
+     
+     */
 
 });

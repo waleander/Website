@@ -1,3 +1,7 @@
+/* .thumbnails{display:none;} */ 
+
+.clearload{clear:both; height:20px; width:100%; overflow: hidden;}
+
 .sl-wrapper .sl-image { 
     border: 8px solid #fff; 
 }
@@ -309,6 +313,7 @@ opacity:0.9;}
     padding: 0 7%;
 }
 
+ 
 
 .cols .overlay {
    /* background-color: rgba(0,0,0,0.3); */

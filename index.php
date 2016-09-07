@@ -504,9 +504,7 @@
                 <div class="portfolio-showcase">
                     <!-- Showcase Grid -->
                     <div id="grid" class="clearfix">
-                    	
-                    	  
-                        
+                    	 
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/raj_august_2016.jpg">
@@ -654,8 +652,8 @@
                         
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
-                            <a href="img/portfolio/better-view/integrity_invoice.jpg">
-                                <img src="img/portfolio/integrity_invoice.jpg" alt="Integrity Invoice">
+                            <a href="img/portfolio/better-view/integrityinvoice.jpg">
+                                <img src="img/portfolio/integrityinvoice.jpg" alt="Integrity Invoice">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Integrity Invoicing App
@@ -723,17 +721,15 @@
                             </a>
                         </div>
                          
-
                     </div>
+                      
                 </div>
-
-                <!-- Portfolio Gallery Button -->
-                <!--
-                <div class="portfolio-button text-center mt-50">
-                    <button class="btn btn-primary portfolio-btn">Load More</button>
-                </div>
-             	 -->
- 
+                 
+         		<!-- Portfolio Gallery Button -->
+       			<!--
+                <div class="portfolio-button text-center mt-50 ">
+                    <button id="loadMore" class="btn btn-primary portfolio-btn">Load More</button>
+                </div> -->
             </div>
         </div>
     </section>
@@ -935,6 +931,9 @@
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyCU8XyYIQN_aRgtU1L0h_5b01KjokfxPqU&sensor=true"></script>
     <!-- gmap.js plugin -->
     <script src="js/gmap.js"></script>
+    
+    <!-- Load More JS -->
+    <script src="js/jquery.loadmore.js"></script>
     
     <!-- Load Social Contact Buttons JS -->
     <script src="js/jquery.contact-buttons.js"></script>
