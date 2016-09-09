@@ -24,7 +24,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/raj_august_2016.jpg">
-                                <img src="img/portfolio/raj_business_card.jpg" alt="Raj Consultancy Business Card">
+                                <img class="lazy" src="img/portfolio/raj_business_card.jpg" alt="Raj Consultancy Business Card">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Raj Consultancy Stationery
@@ -43,7 +43,7 @@
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
                             <a href="img/portfolio/better-view/rasmed_website.jpg">
-                                <img src="img/portfolio/rasmed_website.jpg" alt="Rasmed Publications Website">
+                                <img class="lazy" src="img/portfolio/rasmed_website.jpg" alt="Rasmed Publications Website">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Rasmed Publications Website
@@ -61,7 +61,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/aarano_brochure.jpg">
-                                <img src="img/portfolio/aarano_brochure.jpg" alt="AARano Brochure 2016">
+                                <img class="lazy" src="img/portfolio/aarano_brochure.jpg" alt="AARano Brochure 2016">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">AARAno Brochure 2016
@@ -79,7 +79,7 @@
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
                             <a href="img/portfolio/better-view/aarano_website.jpg">
-                                <img src="img/portfolio/aarano_website.jpg" alt="AARano Website">
+                                <img class="lazy" src="img/portfolio/aarano_website.jpg" alt="AARano Website">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">AARano Website Redesign
@@ -96,7 +96,7 @@
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
                             <a href="img/portfolio/better-view/shola_victor_sajowa1.jpg">
-                                <img src="img/portfolio/sholavictorsajowa.jpg" alt="Shola Victor Sajowa Website">
+                                <img class="lazy" src="img/portfolio/sholavictorsajowa.jpg" alt="Shola Victor Sajowa Website">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Shola Victor Sajowa Website
@@ -114,7 +114,7 @@
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
                             <a href="img/portfolio/better-view/integrityinvoice.jpg">
-                                <img src="img/portfolio/integrityinvoice.jpg" alt="Integrity Invoice">
+                                <img class="lazy" src="img/portfolio/integrityinvoice.jpg" alt="Integrity Invoice">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Integrity Invoicing App
@@ -132,7 +132,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/tiddo_logo.jpg">
-                                <img src="img/portfolio/tiddo_logo.jpg" alt="Tiddo Media Logo">
+                                <img class="lazy" src="img/portfolio/tiddo_logo.jpg" alt="Tiddo Media Logo">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Tiddo Media Logo
@@ -149,7 +149,7 @@
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
                             <a href="img/portfolio/better-view/rasmed_email_marketing.jpg">
-                                <img src="img/portfolio/rasmednewsletter.jpg" alt="Rasmed Publications Email Marketing">
+                                <img class="lazy" src="img/portfolio/rasmednewsletter.jpg" alt="Rasmed Publications Email Marketing">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Rasmed Email Marketing
@@ -167,7 +167,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
                             <a href="img/portfolio/better-view/labs_events.jpg">
-                                <img src="img/portfolio/labs_events.jpg" alt="LABS Executive Events">
+                                <img class="lazy" src="img/portfolio/labs_events.jpg" alt="LABS Executive Events">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">LABS Executive Events
@@ -186,7 +186,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/almond_flyer.jpg">
-                                <img src="img/portfolio/almond_cake.jpg" alt="Almond Cakes and Events">
+                                <img class="lazy" src="img/portfolio/almond_cake.jpg" alt="Almond Cakes and Events">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Almond Cakes Flyer
@@ -207,7 +207,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/mo_therapies.jpg">
-                                <img src="img/portfolio/mo_therapy_2.jpg" alt="Mo Therapies Roller Banner">
+                                <img class="lazy" src="img/portfolio/mo_therapy_2.jpg" alt="Mo Therapies Roller Banner">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">MoTherapies Roller Banner
@@ -225,7 +225,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "webdesign"]'>
                             <a href="img/portfolio/better-view/wesie.jpg">
-                                <img src="img/portfolio/wesie.jpg" alt="WESIE Website">
+                                <img class="lazy" src="img/portfolio/wesie.jpg" alt="WESIE Website">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">WESIE Website
@@ -243,7 +243,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/irke_logo.jpg">
-                                <img src="img/portfolio/irke_logo.jpg" alt="Irke Olaniyi's Logo">
+                                <img class="lazy" src="img/portfolio/irke_logo.jpg" alt="Irke Olaniyi's Logo">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Irke Olaniyi's Logo
@@ -261,7 +261,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "softwaredevelopment"]'>
                             <a href="img/portfolio/better-view/daword.jpg">
-                                <img src="img/portfolio/daword.jpg" alt=" Daword Media Quiz">
+                                <img class="lazy" src="img/portfolio/daword.jpg" alt=" Daword Media Quiz">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Daword Quiz
@@ -280,7 +280,7 @@
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/pathway_logo.jpg">
-                                <img src="img/portfolio/pathway_logo.jpg" alt="Pathway Housing Logo">
+                                <img class="lazy" src="img/portfolio/pathway_logo.jpg" alt="Pathway Housing Logo">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Pathway Housing Logo
@@ -297,7 +297,7 @@
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/kicc_kyam_flyer1.jpg">
-                                <img src="img/portfolio/kicc_kyam_flyer1.jpg" alt="KICC KYAM Flyer">
+                                <img class="lazy" src="img/portfolio/kicc_kyam_flyer1.jpg" alt="KICC KYAM Flyer">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">KICC / KYAM Flyer
@@ -315,7 +315,7 @@
                         <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/vudz.jpg">
-                                <img src="img/portfolio/vudz.jpg" alt="Vudz Hair Flyer">
+                                <img class="lazy" src="img/portfolio/vudz.jpg" alt="Vudz Hair Flyer">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Vudz Hair Flyer
@@ -333,7 +333,7 @@
                           <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/aarano_logo.jpg">
-                                <img src="img/portfolio/aarano_logo.jpg" alt="AARano Logo">
+                                <img class="lazy" src="img/portfolio/aarano_logo.jpg" alt="AARano Logo">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">AARano Logo Redesign
@@ -350,7 +350,7 @@
                           <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/divine_chinchin.jpg">
-                                <img src="img/portfolio/divine_chinchin.jpg" alt="Divine Chin Chin Logo">
+                                <img class="lazy" src="img/portfolio/divine_chinchin.jpg" alt="Divine Chin Chin Logo">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">Divine Chin Chin Logo
@@ -367,7 +367,7 @@
                          <!-- Single Portfolio Item -->
                         <div class="thumbnails" data-groups='["all", "graphicdesign"]'>
                             <a href="img/portfolio/better-view/jcci_flyer.jpg">
-                                <img src="img/portfolio/jcci_flyer.jpg" alt="JCCI Flyer">
+                                <img class="lazy" src="img/portfolio/jcci_flyer.jpg" alt="JCCI Flyer">
                                 <span class="portfolio-overlay">
                                     <i class="fa fa-plus"></i> 
                                     <span class="details">JCCI Flyer
@@ -379,8 +379,6 @@
                                 </span>
                             </a>
                         </div>
-                        
-                        
                         
                         
                          

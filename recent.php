@@ -10,13 +10,13 @@
 					</div>
 		
                     <h2 class="section-title text-center">Our Latest Work</h2>   
-                    <div class="row recent_works" >
+                    <div class="row recent_works">
                          
                         <div class="col-sm-6 col-xs-12 no-padding col_item work_item">
                     		
                     		<a href="http://www.rasmedpublications.com" target="_blank" class="rasmed cols" style="" title="Click to visit the website">
                     			
-                    			 <img src="img/portfolio/recent/rasmed1.jpg" alt="Rasmed" style="visibility: hidden;" />
+                    			 <img class="lazy" src="img/portfolio/recent/rasmed1.jpg" alt="Rasmed" style="visibility: hidden;" />
 	
 									<div class="content">
 										<h3>Rasmed Publications Ltd.</h3>
@@ -41,7 +41,7 @@
                     		
                     		<a href="img/portfolio/better-view/aarano_brochure.jpg" target="_blank" class="aarano cols" style="" title="Click to download the Brochure PDF">
                     			
-                    			 <img src="img/portfolio/recent/aarano2.jpg" alt="AARano Nigeria" style="visibility: hidden;" />
+                    			 <img class="lazy" src="img/portfolio/recent/aarano2.jpg" alt="AARano Nigeria" style="visibility: hidden;" />
 	
 									<div class="content">
 										<h3>AA Rano Oil &amp; Gas</h3>
@@ -68,7 +68,7 @@
                     		
                     		<a href="img/portfolio/better-view/raj_august_2016.jpg" class="raj cols" style="" title="LABS Events Website">
                     			
-                    			 <img src="img/portfolio/recent/raj1.jpg" alt="Raj" style="visibility: hidden;" />
+                    			 <img class="lazy" src="img/portfolio/recent/raj1.jpg" alt="Raj" style="visibility: hidden;" />
 	
 									<div class="content">
 										<h3>RAJ Consultancy Ltd.</h3>
@@ -93,7 +93,7 @@
                     		
                     		<a href="img/portfolio/better-view/tiddo_logo.jpg" class="tiddo cols" style="" title="Tiddo Media Logo">
                     			
-                    			 <img src="img/portfolio/recent/tiddo2.jpg" alt="Tiddo Media" style="visibility: hidden;" />
+                    			 <img class="lazy" src="img/portfolio/recent/tiddo2.jpg" alt="Tiddo Media" style="visibility: hidden;" />
 	
 									<div class="content">
 										<h3>Tiddo Media Ltd.</h3>
@@ -118,7 +118,7 @@
                     		
                     		<a href="img/portfolio/better-view/aarano_website.jpg" target="_blank" class="aarano_web cols" style="" title="Click to see the website">
                     			
-                    			 <img src="img/portfolio/recent/aarano_website.jpg" alt="AARano" style="visibility: hidden;" />
+                    			 <img class="lazy" src="img/portfolio/recent/aarano_website.jpg" alt="AARano" style="visibility: hidden;" />
 	
 									<div class="content">
 										<h3>AA Rano Oil &amp; Gas</h3>
@@ -143,7 +143,7 @@
                     		
                     		<a href="img/portfolio/better-view/almond_flyer.jpg" target="_blank" class="almond cols" style="" title="Click to see">
                     			
-                    			 <img src="img/portfolio/recent/almond1.jpg" alt="Almond" style="visibility: hidden;" />
+                    			 <img class="lazy" src="img/portfolio/recent/almond1.jpg" alt="Almond" style="visibility: hidden;" />
 	
 									<div class="content">
 										<h3>Almond Cakes &amp; Events</h3>
@@ -168,7 +168,7 @@
                     		
                     		<a href="http://sholavictorsajowa.com/" class="shola cols" target="_blank" style="" title="Click to see the website">
                     			
-                    			 <img src="img/portfolio/recent/shola_victor_sajowa.jpg" alt="Shola Victor Sajowa" style="visibility: hidden;" />
+                    			 <img class="lazy" src="img/portfolio/recent/shola_victor_sajowa.jpg" alt="Shola Victor Sajowa" style="visibility: hidden;" />
 	
 									<div class="content">
 										<h3>Shola Victor Sajowa</h3>
@@ -194,7 +194,7 @@
                     		
                     		<a href="http://us14.campaign-archive1.com/?u=e93bfa30c04e6c50de49fac2f&id=ab49370251&e=5876b8f179" target="_blank" class="rasmed_news cols" style="" title="Click to see the Newsletter">
                     			
-                    			 <img src="img/portfolio/recent/rasmed_newsletter.jpg" alt="Rasmed Newsletter" style="visibility: hidden;" />
+                    			 <img class="lazy" src="img/portfolio/recent/rasmed_newsletter.jpg" alt="Rasmed Newsletter" style="visibility: hidden;" />
 	
 									<div class="content">
 										<h3>Rasmed Publications Ltd</h3>
@@ -213,10 +213,7 @@
 							</a>
                     		 
                 		</div><!-- END col_item -->
-                		
-                		
-                		
-                
+                		 
                 
                     </div><!-- END ROW -->
                 </div>

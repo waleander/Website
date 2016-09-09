@@ -33,44 +33,22 @@
 
     <!-- End Of Footer Section -->
 
-
-    <!-- JS Files -->
-     <script src="js/vendor/jquery-1.11.3.min.js"></script>
-    <!-- Bootstrap JS -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- jQuery Easing -->
-    <script src="js/jquery.easing.min.js"></script>
-    <!-- PreLoader -->
-    <script src="js/queryloader2.min.js"></script>
-    <!-- Background Prallax -->
-    <script src="js/jquery.stellar.min.js"></script>
-    <!-- WOW JS Animation -->
-    <script src="js/wow.min.js"></script>
-    <!-- Simple Lightbox -->
-    <script src="js/simple-lightbox.min.js"></script>
-    <!-- Sticky -->
-    <script src="js/jquery.sticky.min.js"></script>
-    <!-- OWL-Carousel -->
-    <script src="js/owl.carousel.min.js"></script>
-    <!-- jQuery inview -->
-    <script src="js/jquery.inview.min.js"></script>
-    <!-- Shuffle jQuery -->
-    <script src="js/jquery.shuffle.min.js"></script>
-    <!-- jQuery CountTo -->
-    <script src="js/jquery.counTo.min.js"></script>
     <!-- Goole map API -->
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyCU8XyYIQN_aRgtU1L0h_5b01KjokfxPqU&sensor=true"></script>
-    <!-- gmap.js plugin -->
-    <script src="js/gmap.min.js"></script>
+    
+
+    <!-- All JS Files -->
+    <script src="js/all.min.js"></script>
       
-    <!-- Load Social Contact Buttons JS -->
-    <script src="js/jquery.contact-buttons.min.js"></script>
+	<script>
+    $(function() {
+        $("img.lazy").unveil();
+    });
+    </script>
+
+   
     
-    <!-- Contact JS -->
-    <script src="js/contact.min.js"></script>
-    
-    <!-- Main JS -->
-    <script src="js/main.min.js"></script>
+   
     
     
     
