@@ -1,8 +1,8 @@
 span {
-	color: #ff5959;
+	color: #fa770b;
 }
 .navbar-custom .navbar-toggle {
-    background: #ff5959;
+    background: #fa770b;
 }
 .navbar-custom .nav > li > a:focus,
 .navbar-custom .nav > li > a:hover,
@@ -10,78 +10,84 @@ span {
 .navbar-custom .nav .open > a,
 .navbar-custom .nav .open > a:focus,
 .navbar-custom .nav .open > a:hover {
-    background-color: #ff5959;
+    background-color: #fa770b;
     color: #fff;
 }
 .section-title-left::after , .section-title::after , .single-pricing-table .pricing-title h2::after {
-  background: #ff5959 none repeat scroll 0 0;
+  background: #fa770b none repeat scroll 0 0;
 
 }
 .about-us-right .media:hover  .fa::before {
-    background-color: #ff5959;
+    background-color: #fa770b;
 }
 .single-service .media .fa::before {
-  background: #ff5959 none repeat scroll 0 0;
+  background: #fa770b none repeat scroll 0 0;
 }
 .single-service .media:hover {
-    background-color: #ff5959;
+    background-color: #fa770b;
 }
 .single-service .media:hover .fa::before {
-    color: #ff5959;
+    color: #fa770b;
 }
 .testimonial-body::before {
-  color: #ff5959;
+  color: #fa770b;
 }
 .client-name::before {
-  background: #ff5959 none repeat scroll 0 0;
+  background: #fa770b none repeat scroll 0 0;
 }
 #testimonial-carousel .owl-controls .owl-buttons .owl-prev:hover , #testimonial-carousel .owl-controls .owl-buttons .owl-next:hover {
-	background: #ff5959;
+	background: #fa770b;
 	border: 1px solid transparent;
 	color: #fff;
 }
 .portfolio-filter-nav ul li:hover {
-    background: #ff5959 none repeat scroll 0 0;
+    background: #fa770b none repeat scroll 0 0;
 }
 .portfolio-filter-nav ul li.active {
-    background: #ff5959 none repeat scroll 0 0;
+    background: #fa770b none repeat scroll 0 0;
 }
 .single-pricing-table:hover .price , .single-pricing-table:hover .pricing-buttons button.buy-btn , .table-active .price {
-    background-color: #ff5959;
+    background-color: #fa770b;
 }
  .table-active .pricing-buttons button.buy-btn {
-    background-color: #ff5959 !important;
+    background-color: #fa770b !important;
     color: #fff !important;
     border: 1px solid transparent !important;
 }
 .our-partners-section {
-	background-color: #ff5959;
+	background-color: #fa770b;
 }
 .blog-post-details .post-heading em a {
-	color: #ff5959 !important;
+	color: #fa770b !important;
 }
 .blog-post-details button.read-more-btn {
-    background: #ff5959 none repeat scroll 0 0;
+    background: #fa770b none repeat scroll 0 0;
 }
 .form-control:focus {
-    border-color: #ff5959;
+    border-color: #fa770b;
 }
 .social-icons a .fa:hover {
-    background: #ff5959;
+    background: #fa770b;
 }
 .portfolio-button button.portfolio-btn {
-    border: 2px solid #ff5959;
-    color: #ff5959;
+    border: 2px solid #fa770b;
+    color: #fa770b;
 }
 .portfolio-button button.portfolio-btn:hover {
-    background-color: #ff5959;
+    background-color: #fa770b;
 }
-.thumbnails:hover span.portfolio-overlay {
-    background-color: #ff5959;
+.thumbnails:hover .portfolio-overlay {
+    background-color: #fa770b;
 }
 button.sl-prev .fa, button.sl-next .fa {
-    color: #ff5959;
+    color: #fa770b;
 }
 .contact-form-section button.btn-contact {
-	background-color: #ff5959;
+	background-color: #fa770b;
+}
+#main-slide .carousel-control i {
+    color: #fa770b;
+}
+#main-slide .carousel-control i:hover{
+    background: #fa770b;
 }
