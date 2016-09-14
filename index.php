@@ -11,7 +11,6 @@
                             <div class='content'></div>
                             <div class='dash'></div>
                         </div>
-<!--                        <h5>We build result-driven web solutions that help our clients become more profitable.</h5>-->
                         
                         <div class="callaction">
                         	<a href="#service" class="page-scroll btn_s2">Our Services</a> 
