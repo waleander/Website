@@ -1,0 +1,38 @@
+.text-typer {
+  width: 60%;
+  text-align: center;
+  height: 60px;
+  line-height: 30px;
+  font-size: 20px;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  margin: auto auto 5px auto; 
+  text-transform: lowercase !important;
+ 
+}
+
+.content {
+    display: inline;
+  }
+
+ .dash {
+    display: inline-block;
+    height: 4px;
+    width: 20px;
+    background-color: #fa770b;
+    animation: blink .5s infinite linear;
+  }
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  99% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+

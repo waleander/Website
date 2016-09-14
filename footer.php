@@ -78,6 +78,41 @@
 		})();
 		</script>
 		<!--End of Tawk.to Script-->
+
+        <!-- Start of text typer code-->
+           <script>
+                var app;
+
+            $(document).ready(function() {
+              return app.init();
+            });
+
+            app = {
+              text: "Building result-driven web solutions, helping our clients become more profitable",
+              index: 0,
+              chars: 0,
+              speed: 200,
+              self: this,
+              container: ".text-typer .content",
+              init: function() {
+                this.chars = this.text.length;
+                return this.write();
+              },
+              write: function() {
+                $(this.container).append(this.text[this.index]);
+                if (this.index < this.chars) {
+                  this.index++;
+                  return window.setTimeout(function() {
+                    return app.write();
+                  }, this.speed);
+                }
+              }
+            };
+            
+        </script>
+           
+        <!-- End of texy type code-->
+
     </body>
 
     </body>

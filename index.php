@@ -7,7 +7,11 @@
                 <div class="container">
                     <div class="row">
                         <h1><span class="underline">Fastest growing</span> web design &amp;<br /> digital marketing firm in Ibadan, Nigeria.</h1>
-                        <h5>We build result-driven web solutions that help our clients become more profitable.</h5>
+                        <div class='text-typer'>
+                            <div class='content'></div>
+                            <div class='dash'></div>
+                        </div>
+<!--                        <h5>We build result-driven web solutions that help our clients become more profitable.</h5>-->
                         
                         <div class="callaction">
                         	<a href="#service" class="page-scroll btn_s2">Our Services</a> 
